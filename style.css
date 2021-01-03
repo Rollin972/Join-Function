@@ -1,0 +1,32 @@
+body
+{
+    background-color:cornflowerblue;
+    text-align: center;
+    font-family: 'Langar', cursive;
+    font-size: 40px;
+}
+#result
+{
+    background-color: cyan;
+}
+#result_without_commas
+{
+     background-color: darkcyan;
+}
+#sorting
+{
+    display: none;
+}
+.buttons
+{
+    background-color: darkslateblue;
+    font-family: 'Langar', cursive;
+    font-size: 20px;
+}
+.place
+{
+    background-color: rgb(122, 233, 155);
+    font-family: 'Langar', cursive;
+    font-size: 25px;
+    width: 350px;
+}
